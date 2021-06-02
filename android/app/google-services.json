@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "981416129122",
+    "project_id": "ardd-f8cc6",
+    "storage_bucket": "ardd-f8cc6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:981416129122:android:1bfa345eaa70e8e1a3173b",
+        "android_client_info": {
+          "package_name": "com.hassan.ardd"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "981416129122-ivd1tqlbdl2in4qeki6i3vrs5gs0b4t1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqGFg3Uov3Pwy5u9urv_EjBDGYxeeR-PI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "981416129122-ivd1tqlbdl2in4qeki6i3vrs5gs0b4t1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
